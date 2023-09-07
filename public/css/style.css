@@ -70,9 +70,9 @@ img {
   display: inline-flex;
 }
 
-.task30 {
+/* .task30 {
   align-items: center;
-}
+} */
 
 .task33 .item4 {
   height: auto;
@@ -92,9 +92,9 @@ img {
 .fix-height {
   min-height: 400px;
 }
-.fix-height .task {
+/* .fix-height .task {
   flex-wrap: wrap;
-}
+} */
 
 h2 {
   font-size: 35px;
